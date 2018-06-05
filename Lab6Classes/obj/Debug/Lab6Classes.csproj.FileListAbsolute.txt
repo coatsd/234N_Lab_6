@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\bin\Debug\Lab6Classes.dll
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\bin\Debug\Lab6Classes.pdb
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\bin\Debug\Lab_6_DBClasses.dll
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\bin\Debug\Lab_6_PropsClasses.dll
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\bin\Debug\ToolsCSharp.dll
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\bin\Debug\ToolsCSharp.pdb
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\bin\Debug\Lab_6_DBClasses.pdb
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\bin\Debug\Lab_6_PropsClasses.pdb
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\obj\Debug\Lab6Classes.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\obj\Debug\Lab6Classes.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\obj\Debug\Lab6Classes.csproj.CopyComplete
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\obj\Debug\Lab6Classes.dll
+C:\Users\Student\Desktop\Lab_6\Lab6Classes\obj\Debug\Lab6Classes.pdb

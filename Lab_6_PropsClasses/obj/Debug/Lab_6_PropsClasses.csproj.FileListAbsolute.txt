@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\Lab_6\Lab_6_PropsClasses\bin\Debug\Lab_6_PropsClasses.dll
+C:\Users\Student\Desktop\Lab_6\Lab_6_PropsClasses\bin\Debug\Lab_6_PropsClasses.pdb
+C:\Users\Student\Desktop\Lab_6\Lab_6_PropsClasses\bin\Debug\ToolsCSharp.dll
+C:\Users\Student\Desktop\Lab_6\Lab_6_PropsClasses\bin\Debug\ToolsCSharp.pdb
+C:\Users\Student\Desktop\Lab_6\Lab_6_PropsClasses\obj\Debug\Lab_6_PropsClasses.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Lab_6\Lab_6_PropsClasses\obj\Debug\Lab_6_PropsClasses.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab_6\Lab_6_PropsClasses\obj\Debug\Lab_6_PropsClasses.csproj.CopyComplete
+C:\Users\Student\Desktop\Lab_6\Lab_6_PropsClasses\obj\Debug\Lab_6_PropsClasses.dll
+C:\Users\Student\Desktop\Lab_6\Lab_6_PropsClasses\obj\Debug\Lab_6_PropsClasses.pdb

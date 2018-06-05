@@ -1,0 +1,32 @@
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\obj\Debug\Lab_6_Tests.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\obj\Debug\Lab_6_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\bin\Debug\Lab_6_Tests.dll
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\bin\Debug\Lab_6_Tests.pdb
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\bin\Debug\Lab_6_PropsClasses.dll
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\bin\Debug\nunit.framework.dll
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\bin\Debug\ToolsCSharp.dll
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\bin\Debug\Lab_6_PropsClasses.pdb
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\bin\Debug\nunit.framework.xml
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\bin\Debug\ToolsCSharp.pdb
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\obj\Debug\Lab_6_Tests.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\obj\Debug\Lab_6_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\obj\Debug\Lab_6_Tests.csproj.CopyComplete
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\obj\Debug\Lab_6_Tests.dll
+C:\Users\Student\Desktop\Lab 6\Lab_6\Lab_6_Tests\obj\Debug\Lab_6_Tests.pdb
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\Lab_6_Tests.dll
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\Lab_6_Tests.pdb
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\Lab_6_PropsClasses.dll
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\nunit.framework.dll
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\ToolsCSharp.dll
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\Lab_6_PropsClasses.pdb
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\nunit.framework.xml
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\ToolsCSharp.pdb
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\obj\Debug\Lab_6_Tests.csproj.CopyComplete
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\obj\Debug\Lab_6_Tests.dll
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\obj\Debug\Lab_6_Tests.pdb
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\Lab6Classes.dll
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\Lab_6_DBClasses.dll
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\Lab6Classes.pdb
+C:\Users\Student\Desktop\Lab_6\Lab_6_Tests\bin\Debug\Lab_6_DBClasses.pdb
