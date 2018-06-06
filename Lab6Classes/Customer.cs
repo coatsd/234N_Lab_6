@@ -172,7 +172,7 @@ namespace Lab6Classes
             {
                 if (!(value == ((CustomerProps)mProps).address))
                 {
-                    if (value.Trim().Length > 0 && value.Trim().Length < 50)
+                    if (value.Trim().Length > 0 && value.Trim().Length <= 50)
                     {
                         mRules.RuleBroken("Address", false);
                         ((CustomerProps)mProps).address = value;
@@ -236,6 +236,7 @@ namespace Lab6Classes
             {
                 if (value.Length == 2)
                 {
+                    mRules.RuleBroken("State", false);
                     ((CustomerProps)mProps).state = value;
                     mIsDirty = true;
                 }
@@ -256,6 +257,7 @@ namespace Lab6Classes
             {
                 if (value.Trim().Length >= 5 && value.Trim().Length <= 15)
                 {
+                    mRules.RuleBroken("ZipCode", false);
                     ((CustomerProps)mProps).zipCode = value;
                     mIsDirty = true;
                 }

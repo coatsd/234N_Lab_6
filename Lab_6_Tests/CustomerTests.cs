@@ -17,12 +17,12 @@ using NUnit.Framework;
 namespace Lab_6_Tests
 {
     [TestFixture]
-    class ProductTests
+    class CustomerTests
     {
-        Product p = new Product(dataSource);
+        Customer c = new Customer(dataSource);
         private static string dataSource = "Data Source=1912843-C20243;Initial Catalog=MMABooksUpdated;Integrated Security=True";
         static DBConnection connection = new DBConnection(dataSource);
-        static ProductDB pdb = new ProductDB(connection);
+        static CustomerDB cdb = new CustomerDB(connection);
         static int test = 0;
 
         [SetUp]
@@ -34,38 +34,31 @@ namespace Lab_6_Tests
         [Test]
         public void TestLoad()
         {
-            Product prod = new Product(dataSource);
-            prod.Load(1);
-            Assert.IsTrue(p.ProductCode.Trim() == "A4CS");
+            Customer cust = new Customer(dataSource);
+            cust.Load(1);
+            Assert.IsTrue(cust.Name.Trim() == "Molunguri, A");
         }
 
         [Test, Order(1)]
         public void TestSave()
         {
-            p.ProductCode = "XYZ1";
-            p.Description = "Test product 1";
-            p.Price = 15.00m;
-            p.OnHandQuantity = 20;
-            try
-            {
-                p.Save();
-                Assert.IsTrue(true);
-            }
-            catch
-            {
-                Assert.IsTrue(false);
-            }
+            c.Name = "XYZ";
+            c.Address = "100 street";
+            c.City = "Blehtown";
+            c.State = "NJ";
+            c.ZipCode = "11111";
+            c.Save();
         }
 
         [Test, Order(2)]
         public void TestUpdate()
         {
-            List<ProductProps> products = (List<ProductProps>)pdb.RetrieveAll(test.GetType());
-            p = new Product(products[products.Count - 1].productID, dataSource);
-            p.Price = 20.00m;
+            List<CustomerProps> customers = (List<CustomerProps>)cdb.RetrieveAll(test.GetType());
+            c = new Customer(customers[customers.Count - 1].customerID, dataSource);
+            c.ZipCode = "22222";
             try
             {
-                p.Save();
+                c.Save();
                 Assert.IsTrue(true);
             }
             catch
@@ -92,10 +85,10 @@ namespace Lab_6_Tests
         [Test, Order(3)]
         public void TestDelete()
         {
-            p.Delete();
+            c.Delete();
             try
             {
-                p.Save();
+                c.Save();
                 Assert.IsTrue(true);
             }
             catch

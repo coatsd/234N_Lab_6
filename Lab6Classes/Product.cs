@@ -140,7 +140,7 @@ namespace Lab6Classes
                 {
                     if (value.Trim().Length < 10 && value.Trim().Length > 0)
                     {
-                        mRules.RuleBroken("ProductID", false);
+                        mRules.RuleBroken("ProductCode", false);
                         ((ProductProps)mProps).productCode = value;
                         mIsDirty = true;
                     }
