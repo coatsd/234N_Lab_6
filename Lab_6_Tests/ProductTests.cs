@@ -36,7 +36,7 @@ namespace Lab_6_Tests
         {
             Product prod = new Product(dataSource);
             prod.Load(1);
-            Assert.IsTrue(p.ProductCode.Trim() == "A4CS");
+            Assert.IsTrue(prod.ProductCode.Trim() == "A4CS");
         }
 
         [Test, Order(1)]
